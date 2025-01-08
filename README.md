@@ -35,23 +35,23 @@ curl --proxytunnel -k --proxy 'http://xxx.xxx.xxx.xxx:xxxx' -o - https://api.my-
 
   - **HTTP**
     ```bash
-    https://raw.githubusercontent.com/zloi-user/hideip.me/main/http.txt
+    https://github.com/zloi-user/hideip.me/raw/refs/heads/master/http.txt
     ```
   - **HTTPS**
     ```bash
-    https://raw.githubusercontent.com/zloi-user/hideip.me/main/https.txt
+    https://github.com/zloi-user/hideip.me/raw/refs/heads/master/https.txt
     ```
   - **SOCKS4**
     ```bash
-    https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks4.txt
+    https://github.com/zloi-user/hideip.me/raw/refs/heads/master/socks4.txt
     ```
   - **SOCKS5**
     ```bash
-    https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks5.txt
+    https://github.com/zloi-user/hideip.me/raw/refs/heads/master/socks5.txt
     ```
   - **CONNECT**
     ```bash
-    https://raw.githubusercontent.com/zloi-user/hideip.me/main/connect.txt
+    https://github.com/zloi-user/hideip.me/raw/refs/heads/master/connect.txt
     ```
 
 
